@@ -1,0 +1,17 @@
+noemal1.png
+size:1234,313
+filter:Linear,Linear
+pma:true
+0
+bounds:2,2,312,309
+offsets:7,1,320,311
+4
+bounds:627,5,306,301
+offsets:7,11,313,322
+rotate:90
+5
+bounds:316,2,309,309
+offsets:1,1,311,311
+8
+bounds:930,9,302,302
+offsets:1,1,304,304

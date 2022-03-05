@@ -1,0 +1,120 @@
+{
+    "skeleton": {
+        "hash": "BuOvYgthO+s",
+        "spine": "4.0.56",
+        "x": -312,
+        "y": -380,
+        "width": 625,
+        "height": 760,
+        "audio": ""
+    },
+    "bones": [{
+        "name": "root"
+    }],
+    "slots": [{
+        "name": "11",
+        "bone": "root",
+        "attachment": "10"
+    }],
+    "skins": [{
+        "name": "default",
+        "attachments": {
+            "11": {
+                "1": {
+                    "width": 622,
+                    "height": 766
+                },
+                "2": {
+                    "y": 0.5,
+                    "width": 622,
+                    "height": 765
+                },
+                "3": {
+                    "x": 0.5,
+                    "width": 623,
+                    "height": 770
+                },
+                "4": {
+                    "y": 0.5,
+                    "width": 624,
+                    "height": 759
+                },
+                "5": {
+                    "x": 0.5,
+                    "width": 627,
+                    "height": 760
+                },
+                "6": {
+                    "x": 0.5,
+                    "y": 0.5,
+                    "width": 627,
+                    "height": 759
+                },
+                "7": {
+                    "width": 624,
+                    "height": 760
+                },
+                "8": {
+                    "x": 0.5,
+                    "y": 0.5,
+                    "width": 627,
+                    "height": 759
+                },
+                "9": {
+                    "y": 0.5,
+                    "width": 624,
+                    "height": 761
+                },
+                "10": {
+                    "x": 0.5,
+                    "width": 625,
+                    "height": 760
+                }
+            }
+        }
+    }],
+    "animations": {
+        "animation": {
+            "slots": {
+                "11": {
+                    "rgba": [{
+                        "color": "74cfffff"
+                    }],
+                    "attachment": [{
+                        "name": "1"
+                    }, {
+                        "time": 0.0333,
+                        "name": "2"
+                    }, {
+                        "time": 0.1,
+                        "name": "3"
+                    }, {
+                        "time": 0.1667,
+                        "name": "4"
+                    }, {
+                        "time": 0.2333,
+                        "name": "5"
+                    }, {
+                        "time": 0.3,
+                        "name": "6"
+                    }, {
+                        "time": 0.4,
+                        "name": "7"
+                    }, {
+                        "time": 0.4667,
+                        "name": "8"
+                    }, {
+                        "time": 0.5333,
+                        "name": "9"
+                    }, {
+                        "time": 0.6,
+                        "name": "10"
+                    }, {
+                        "time": 0.6667,
+                        "name": "1"
+                    }]
+                }
+            }
+        }
+    }
+}

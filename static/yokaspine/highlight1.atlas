@@ -1,0 +1,20 @@
+
+highlight1.png
+size: 1451, 768
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1146, 764
+  orig: 1172, 771
+  offset: 25, 6
+  index: -1
+2
+  rotate: true
+  xy: 1150, 427
+  size: 339, 299
+  orig: 353, 314
+  offset: 7, 8
+  index: -1
